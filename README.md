@@ -1,2 +1,4 @@
 # AOOP-Assignments
-This Repository is made to upload my Assignments of OOPS 
+Myself Rahul 
+pursuing B.E in CSE 
+This Repository is created to upload my Academic Assignments of OOPS 
